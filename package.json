@@ -1,7 +1,7 @@
 {
-  "name": "@YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME",
+  "name": "@simplepry-s/my-system-design",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/YOUR_GITHUB_USERNAME"
+    "registry": "https://npm.pkg.github.com/simplepry-s"
   },
   "version": "0.0.1",
   "description": "sample",
